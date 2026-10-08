@@ -118,7 +118,7 @@
   
 }
 .contact-img{
-   background-image: url('../images/page-header-img.jpg');
+   background-image: url('page-header-img.jpg');
    background-size: cover;
 }
 .contact-op{
@@ -126,7 +126,7 @@
 }
 
 .about-img{
-   background-image: url('../images/290521084547-about.jpg');
+   background-image: url('290521084547-about.jpg');
    background-size: cover;
 }
 .con-h:hover{
